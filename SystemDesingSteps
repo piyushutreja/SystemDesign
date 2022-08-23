@@ -6,3 +6,6 @@ Choose the objects
 Desing high level APIs
 Focus on the logic between the Data objects
 Focus on the algorithm if any
+Check the data parition strategy
+Check for caching strategy
+Chekc for bottlenecks
